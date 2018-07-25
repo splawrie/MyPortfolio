@@ -8,26 +8,23 @@ body {
 
 p,
 h1,
-h2 {display: block;
-    background-color: #BC986A;    
+h2 {display: block;    
     width: 65%;
     margin:10px;
-    padding: 10px;
     float: right;
 }
 
 #mountains {
     margin: 10px;
     width: 98%;
-    border: solid black 1px;
+    
 }
 
 #me {
     margin-top: 10px;
     margin-left: 12px;
-    width: 30%;
+    width: 25%;
     float: left;
-    border: solid black 1px;
 }
 
 #content {
@@ -35,6 +32,6 @@ h2 {display: block;
 }
 nav a {
     font-size: 24px;
-    color: #FBEEC1;
+    color: white;
     margin: 10px;
 }
