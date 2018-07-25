@@ -15,6 +15,13 @@ h2 {display: block;
     float: right;
 }
 
+h1,
+h2 {
+    font-size: 24px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
 #mountains {
     margin: 10px;
     width: 98%;
@@ -22,7 +29,7 @@ h2 {display: block;
 }
 
 #me {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 12px;
     width: 25%;
     float: left;
